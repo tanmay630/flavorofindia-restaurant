@@ -1,0 +1,32 @@
+[
+    {
+      "HeaderTitle": "Flavor of India",
+      "BrandName": "SpiceApp",
+      "HeroTitle": "Flavor of India",
+      "Address": "500 E Providence Rd, Aldan, PA 19018, United States",
+      "restTiming": "Daily : 8.00 am to 10.00 pm",
+      "restPhone": "+1 610-783-3955",
+      "emailId": "cricket30000@gmail.com",
+      "herotitle": " For the love of  For the love of delicious food",
+      "herotitle1": "Flavors Inspired by the Seasons",
+      "herotitle2": "Where every flavor tells a story",
+      "servicesdesc": "  Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys  standard dummy text ever.",
+      "abouttitle": "Every Fla vor Tells a Story",
+      "aboutsectitontext": "  Flavor of India, a culinary gem in the heart of the city, invites you on a sensory journey through the rich tapestry of Indian flavors. From aromatic spices to sizzling tandoori delights, our menu showcases authentic dishes crafted with the finest ingredients. Step into our warm, inviting ambiance adorned with traditional artwork, and savor the essence of India at every bite. Flavor of India, where each dish tells a story of culinary excellence and tradition.",
+      "aboutsecphone" : "+1 610-783-3955",
+
+      
+
+    },{
+        "restlogo": "./assets/images/foi.png",
+        "herosliderimg1": "./assets/images/hero-slider-1.jpg",
+        "herosliderimg2": "./assets/images/hero-slider-2.jpg",
+        "herosliderimg3": "./assets/images/hero-slider-3.jpg",
+        "service1img": "./assets/images/service-1.jpg",
+        "service2img": "./assets/images/service-2.jpg",
+        "service3img": "./assets/images/service-3.jpg", 
+        "aboutbanner": "./assets/images/about-banner.jpg",
+        "aboutbanner1": "./assets/images/about-abs-image.jpg"
+
+     }
+]
